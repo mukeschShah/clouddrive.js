@@ -1,3 +1,13 @@
+# Amazon Cloud Drive SDK
+
+Alex node-clouddrive is greate but provides no documented SDK für the cloud drive. The goal of this fork is to make such an documented SDK
+
+## Further planned features
+
+- typescript wrapper
+- auth with firebase of others
+
+# old readme.md
 # Amazon Cloud Drive CLI and SDK
 
 Amazon's Cloud Drive offers unlimited cloud storage but no good way to interact with your data (upload, download, find, etc). The web app is lacking and the desktop app is sub-par. So here's a command-line interface and SDK for interacting with Cloud Drive as if it were a filesystem.
